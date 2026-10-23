@@ -1,0 +1,18 @@
+{
+  "default_branch": "feat/259-landing-feature-bullets",
+  "branches": [
+    "feat/259-landing-feature-bullets",
+    "origin",
+    "security/issue-169-quality-harden-qrcodedisplay-contract"
+  ],
+  "parent": {
+    "feat/259-landing-feature-bullets": null,
+    "origin": "feat/259-landing-feature-bullets",
+    "security/issue-169-quality-harden-qrcodedisplay-contract": "feat/259-landing-feature-bullets"
+  },
+  "order": [
+    "feat/259-landing-feature-bullets",
+    "origin",
+    "security/issue-169-quality-harden-qrcodedisplay-contract"
+  ]
+}
